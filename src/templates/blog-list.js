@@ -13,7 +13,7 @@ class BlogList extends React.Component {
 			return (
 				<section id="blog" className="container">
 					<div className="section-title">
-						<SectionTitle title="BLOG"/>
+						<SectionTitle title="MEMBERS"/>
 					</div>
 					<BlogItems data={query}/>
 					<Pagination pathContext={this.props.pathContext} type="blog"/>

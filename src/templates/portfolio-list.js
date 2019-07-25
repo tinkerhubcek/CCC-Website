@@ -42,7 +42,7 @@ export const query = graphql `
 	query portfolioListPage($skip: Int!, $limit: Int!){
 		allMarkdownRemark(
 			filter: { fileAbsolutePath: {regex : "\/portfolio/"} }
-			sort: { fields: [frontmatter___date], order: DESC }
+			sort: { fields: [frontmatter___date], order: ASC }
 			limit: $limit
 			skip: $skip
 		){

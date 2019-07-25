@@ -1,10 +1,10 @@
 let siteMetadata = {
-	title: `Elemental`,
-	capitalizeTitleOnHome: true,
+	title: `CEK Club Collective`,
+	capitalizeTitleOnHome: false,
 	logo: `/images/logo.png`,
 	icon: `/images/icon.png`,
 	titleImage: `/images/wall.jpg`,
-	introTag: `PHOTOGRAPHER | VIDEOGRAPHER`,
+	introTag: `Divided by Names, United by Tech`,
 	description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
 	author: `@_akzhy`,
 	blogItemsPerPage: 10,
@@ -15,16 +15,16 @@ let siteMetadata = {
 			url: "/"
 		},
 		{
-			name: "ABOUT",
-			url: "/about"
+			name: "CLUBS",
+			url: "/portfolio"
 		},
 		{
-			name: "BLOG",
+			name: "CEK",
 			url: "/blog"
 		},
 		{
-			name: "PORTFOLIO",
-			url: "/portfolio"
+			name: "ORG",
+			url: "/about"
 		},
 		{
 			name: "CONTACT",
