@@ -1,11 +1,11 @@
 let siteMetadata = {
-	title: `CEK Club Collective`,
+	title: `CEK Clubs Collective`,
 	capitalizeTitleOnHome: false,
 	logo: `/images/logo.png`,
 	icon: `/images/icon.png`,
 	titleImage: `/images/wall.jpg`,
 	introTag: `Divided by Names, United by Tech`,
-	description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
+	description: 's',
 	author: `@_akzhy`,
 	blogItemsPerPage: 10,
 	portfolioItemsPerPage: 10,
