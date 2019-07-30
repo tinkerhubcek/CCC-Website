@@ -5,6 +5,8 @@ import Img from "gatsby-image"
 import SEO from "../components/seo"
 import "../style/basepage.less"
 
+// Boop
+
 export default function({data}){
 	return(
 		<Layout>
