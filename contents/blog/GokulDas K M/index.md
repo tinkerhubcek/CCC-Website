@@ -2,7 +2,7 @@
 title: GokulDas KM
 date: 2019-06-29
 template: blog
-image: ./image.jpg
+image: ./img.jpg
 banner: ./banner.jpg
 description: Lead TinkerHub CEK
 ---
